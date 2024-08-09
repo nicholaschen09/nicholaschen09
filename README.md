@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nicholaschen09
 - 👀 I’m interested in UX/UI design, software engineering and product management
 - 🌱 I’m currently learning react-native and kotlin for ios and android development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: instagram: nicholas.chen__ 
 
 <!---
