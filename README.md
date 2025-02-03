@@ -1,6 +1,5 @@
 Hi, I’m @nicholaschen09
 I’m interested in UX/UI design, software engineering and product management
-How to reach me: instagram: nicholas.chen__ 
 
 <!---
 nicholaschen09/nicholaschen09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
