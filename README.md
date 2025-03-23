@@ -1,5 +1,5 @@
 # Hi, I'm Nicholas Chen  
-![Nyan Cat](https://no-cdn.shortpixel.ai/client/to_avif,q_lossy,ret_wait/https://shortpixel.com/blog/wp-content/uploads/2023/12/nyan-cat.gif)
+![Nyan Cat](https://www.icegif.com/wp-content/uploads/2024/09/nyan-cat-icegif-10.gif)
 
 
 I'm passionate about UX/UI design and software engineering. 
