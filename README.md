@@ -1,7 +1,15 @@
-Hi, I’m @nicholaschen09
-I’m interested in UX/UI design, software engineering and product management
+# Hi, I'm Nicholas Chen  
+I'm passionate about UX/UI design and software engineering. 
 
-<!---
-nicholaschen09/nicholaschen09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me  
+- studying systems design engineering at the university of waterloo
+- currently working at ownr (rbcx) as a software engineer intern
+- previously helped create awesome things at rbc and meta hash capital
+
+## Let's Connect  
+[LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/nicholas-chen-85886726a/)) | [GitHub](https://github.com/nicholaschen09) | [Portfolio](your-portfolio-link)  
+
+## Fun Fact  
+I built **Fernando**, a posture detection robot that helps improve ergonomics.  
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
