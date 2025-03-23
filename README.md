@@ -1,5 +1,6 @@
 # Hi, I'm Nicholas Chen  
 I'm passionate about UX/UI design and software engineering. 
+![Nyan Cat](https://your-hosted-image-url.com/nyan-cat.gif)
 
 ## About Me  
 - studying systems design engineering at the university of waterloo
