@@ -2,7 +2,7 @@
 ![Nyan Cat](https://www.icegif.com/wp-content/uploads/2024/09/nyan-cat-icegif-10.gif)
 
 
-I love creating art and 'm interested in anything that is UX/UI design and software engineering. 
+I love creating art and am interested in anything that is UX/UI design and software engineering. 
 
 ## About Me  
 - studying systems design engineering at the university of waterloo
