@@ -7,4 +7,4 @@ I'm passionate about UX/UI design and software engineering.
 - previously helped create awesome things at rbc and meta hash capital
 
 ## Let's Connect  
-[LinkedIn](https://www.linkedin.com/in/nicholas-chen-85886726a/) | [GitHub](https://github.com/nicholaschen09) | [Personal Website](your-portfolio-link](https://nicholas-personal-website-eta.vercel.app))  
+[LinkedIn](https://www.linkedin.com/in/nicholas-chen-85886726a/) | [GitHub](https://github.com/nicholaschen09) | [Personal Website](https://nicholas-personal-website-eta.vercel.app)
