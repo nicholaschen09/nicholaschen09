@@ -12,6 +12,5 @@ I love creating art and am interested in anything that is related to ux/ui desig
 ## Let's Connect  
 
 [LinkedIn](https://www.linkedin.com/in/nicholas-chen-85886726a/)  
-[GitHub](https://github.com/nicholaschen09)  
 [Personal Website](https://nicholas-personal-website-eta.vercel.app)  
-Email: [nicholas.chen243@gmail.com](mailto:nicholas.chen243@gmail.com)
+[nicholas.chen243@gmail.com](mailto:nicholas.chen243@gmail.com)
