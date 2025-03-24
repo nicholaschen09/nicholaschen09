@@ -2,12 +2,12 @@
 ![Nyan Cat](https://www.icegif.com/wp-content/uploads/2024/09/nyan-cat-icegif-10.gif)
 
 
-I love creating art and am interested in anything that is related to UX/UI design and software engineering. 
+I love creating art and am interested in anything that is related to ux/ui design and software engineering. 
 
 ## About Me  
 - studying systems design engineering at the university of waterloo
 - currently working at ownr (rbcx) as a software engineer intern
-- previously helped create awesome things at rbc and meta hash capital
+- previously helped create awesome things at the royal bank of canada and meta hash capital
 
 ## Let's Connect  
 
