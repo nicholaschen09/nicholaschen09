@@ -7,7 +7,7 @@ I love creating art and am interested in anything that is related to ux/ui desig
 ## About Me  
 - studying systems design engineering at the university of waterloo
 - currently working at ownr (rbcx) as a software engineer intern
-- previously helped create awesome things at the royal bank of canada and meta hash capital
+- previously helped create some awesome things at the royal bank of canada and meta hash capital
 
 ## Let's Connect  
 
