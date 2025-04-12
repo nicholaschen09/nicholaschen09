@@ -2,7 +2,7 @@
 ![Nyan Cat](https://www.icegif.com/wp-content/uploads/2024/09/nyan-cat-icegif-10.gif)
 
 
-I'm interested in anything data or ml engineering!
+I'm interested in anything data or machine learning engineering!
 
 ## About Me  
 - studying systems design engineering at the university of waterloo
