@@ -11,7 +11,7 @@ I'm interested in anything data or machine learning engineering!
 
 ## Let's Connect  
 
-[linkedIn](https://www.linkedin.com/in/nicholas-chen-85886726a/)  
+[linkedin](https://www.linkedin.com/in/nicholas-chen-85886726a/)  
 [my personal website](https://nicholas-personal-website-eta.vercel.app)  
 [email](mailto:nicholas.chen243@gmail.com)  
 [x(twitter)](https://x.com/nicholaschen__)
