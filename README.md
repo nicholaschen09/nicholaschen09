@@ -5,6 +5,7 @@
 I'm interested in infrastructure, data and machine learning engineering!
 
 ## About Me  
+- joining textql this fall as a software engineer intern in nyc
 - studying systems design engineering at the university of waterloo
 - previously helped create some awesome things at ownr, the royal bank of canada and meta hash capital
 - enjoy filming, video editing and photography
