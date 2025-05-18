@@ -13,6 +13,6 @@ I'm interested in infrastructure, data and machine learning engineering!
 ## Let's Connect  
 
 [linkedin](https://www.linkedin.com/in/nicholas-chen-85886726a/)  
-[my personal website](https://nicholas-personal-website-eta.vercel.app)  
+[my personal website](https://nicholaschen.me)  
 [email](mailto:nicholas.chen243@gmail.com)  
 [x(twitter)](https://x.com/nicholaschen__)
