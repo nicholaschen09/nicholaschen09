@@ -1,6 +1,6 @@
 # Hi, I'm Nicholas Chen  
 
-I'm interested in infrastructure, data and machine learning engineering!
+I'm interested in backend, infrastructure, data and machine learning engineering!
 
 ## About Me  
 - working at textql as a software engineer intern in nyc
