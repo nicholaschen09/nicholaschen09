@@ -1,4 +1,4 @@
-# Hi, I'm Nicholas Chen  
+# Hi, I'm Nicholas
 
 I'm interested in backend, infrastructure, data and machine learning engineering!
 
