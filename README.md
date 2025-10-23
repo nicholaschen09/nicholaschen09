@@ -1,6 +1,4 @@
 # Hi, I'm Nicholas Chen  
-![Nyan Cat](https://www.icegif.com/wp-content/uploads/2024/09/nyan-cat-icegif-10.gif)
-
 
 I'm interested in infrastructure, data and machine learning engineering!
 
