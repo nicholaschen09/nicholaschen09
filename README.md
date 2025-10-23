@@ -5,7 +5,7 @@ I'm interested in infrastructure, data and machine learning engineering!
 ## About Me  
 - working at textql as a software engineer intern in nyc
 - studying systems design engineering at the university of waterloo
-- previously helped build some awesome things at [Ownr](https://www.ownr.co/) and [Royal Bank of Canada (RBC)](https://www.rbc.com/)
+- previously helped build some awesome things at [ownr](https://www.ownr.co/) and [rbc](https://www.rbc.com/)
 
 - enjoy drawing and making cool stuff
 
