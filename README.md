@@ -1,6 +1,6 @@
 
 
-hi I'm Nicholas!
+hi i'm nicholas!
 
 i'm interested in backend, infrastructure, data and machine learning engineering!
 
