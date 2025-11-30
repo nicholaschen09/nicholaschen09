@@ -2,8 +2,6 @@
 
 hi i'm nicholas!
 
-i'm interested in backend, infrastructure, data and machine learning engineering!
-
 i'm currently:
 
 - working at [textql](https://textql.com) as a software engineer intern in nyc
