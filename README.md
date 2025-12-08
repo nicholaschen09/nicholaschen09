@@ -2,7 +2,7 @@
 
 hi i'm nicholas!
 
-- currently working at [textql](https://textql.com) as a software engineer intern in nyc
+- currently doing engineering at [textql](https://textql.com)
 - studying systems design engineering at the [university of waterloo](https://uwaterloo.ca/)
 - previously helped build some cool stuff at [ownr](https://www.ownr.co/) and [rbc](https://www.rbc.com/)
 
