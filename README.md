@@ -6,4 +6,4 @@ previously: engineering at [textql](https://textql.com), [ownr](https://www.ownr
 [linkedin](https://www.linkedin.com/in/nicholas-chen-85886726a/)  
 [nicholaschen.me](https://nicholaschen.me)  
 [email](mailto:nicholas.chen243@gmail.com)  
-[twitter](https://x.com/nicholaschen__)
+[twitter(x)](https://x.com/nicholaschen__)
