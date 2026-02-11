@@ -3,7 +3,3 @@ hi i'm nic
 currently: engineering at [uwaterloo](https://uwaterloo.ca/)  
 previously: engineering at [textql](https://textql.com), [ownr](https://www.ownr.co/) and [rbc](https://www.rbc.com/)  
 
-[linkedin](https://www.linkedin.com/in/nicholas-chen-85886726a/)  
-[nicholaschen.me](https://nicholaschen.me)  
-[email](mailto:nicholas.chen243@gmail.com)  
-[twitter(x)](https://x.com/nicholaschen__)
