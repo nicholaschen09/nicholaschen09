@@ -4,4 +4,3 @@ previously [melius](https://www.melius.com/), [textql](https://textql.com), [own
 
 visit my website: [nicholaschen.me](https://nicholaschen.me/)
 
-<img src="https://komarev.com/ghpvc/?username=nicholaschen09"/>
